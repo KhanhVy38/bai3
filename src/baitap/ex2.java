@@ -2,7 +2,7 @@ package baitap;
 
 import java.util.Scanner;
 
-public class Baitap {
+public class ex2 {
     public static void main(String[] args) {
         int a[]=new int[5];
         Scanner sc=new Scanner(System.in);
